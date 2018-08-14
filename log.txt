@@ -1,1 +1,3 @@
 Error logs
+
+There were no error logs
